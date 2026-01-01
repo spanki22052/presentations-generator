@@ -97,6 +97,8 @@
   },
   "featuresPage": {
     "hero": {
+      "badge": "New Version 2.0",
+      "title": "Presentations that <0>design themselves</0>",
       "subtitle": "Stop wrestling with slide decks. Let our AI write, design, and format your story in seconds so you can focus on the delivery.",
       "primaryButton": "Start Creating Free",
       "secondaryButton": "Watch Demo"
@@ -232,14 +234,6 @@
     },
     "popularBadge": "Most Popular",
     "pricePeriod": "/mo",
-    "compare": {
-      "tableHeaders": {
-        "features": "Features",
-        "starter": "Starter",
-        "pro": "Pro",
-        "enterprise": "Enterprise"
-      }
-    },
     "plans": {
       "starter": {
         "name": "Starter",
@@ -279,6 +273,12 @@
     "compare": {
       "title": "Compare Plans",
       "subtitle": "A detailed look at what's included",
+      "tableHeaders": {
+        "features": "Features",
+        "starter": "Starter",
+        "pro": "Pro",
+        "enterprise": "Enterprise"
+      },
       "features": {
         "presentations": {
           "name": "Presentations / mo",

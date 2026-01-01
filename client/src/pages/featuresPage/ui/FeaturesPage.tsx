@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { useTranslation } from "react-i18next";
+import { useTranslation, Trans } from "react-i18next";
 import * as Styled from "./FeaturesPage.styles";
 import { useReducedMotion } from "../hooks/useReducedMotion";
 import { useFeaturesPageLogic } from "../hooks/useFeaturesPageLogic";
@@ -42,16 +42,16 @@ export function FeaturesPage() {
               as={motion.div}
               variants={shouldAnimate ? heroBadgeVariants : undefined}
             >
-              New Version 2.0
+              {t("featuresPage.hero.badge")}
             </Styled.HeroBadge>
             <Styled.HeroTitle
               as={motion.h1}
               variants={shouldAnimate ? heroTitleVariants : undefined}
             >
-              Presentations that <br />
-              <Styled.HeroTitleHighlight>
-                design themselves
-              </Styled.HeroTitleHighlight>
+              <Trans
+                i18nKey="featuresPage.hero.title"
+                components={[<Styled.HeroTitleHighlight key="0" />]}
+              />
             </Styled.HeroTitle>
             <Styled.HeroSubtitle
               as={motion.p}
