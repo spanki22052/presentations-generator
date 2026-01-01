@@ -1,0 +1,576 @@
+{
+  "hero": {
+    "badge": "⚡ NEW AI ENGINE V2.0",
+    "title": "Turn Ideas into <0>Decks</0> in Seconds",
+    "subtitle": "The AI co-pilot for professional presentations. Stop fighting with formatting—let AI handle the design while you focus on the story.",
+    "primaryButton": "Generate First Deck →",
+    "secondaryButton": "▶ Watch Demo",
+    "note": "No credit card required • Free 14-day trial"
+  },
+  "trustBar": {
+    "title": "TRUSTED BY MODERN TEAMS AT"
+  },
+  "features": {
+    "title": "Why AutoDeck?",
+    "subtitle": "Create professional slides 10x faster with intelligent features designed for business and education.",
+    "viewAll": "View all features →",
+    "items": {
+      "textToSlide": {
+        "title": "Text-to-Slide",
+        "description": "Just type your topic or paste a document, and watch as our AI generates a full presentation structure instantly."
+      },
+      "smartLayouts": {
+        "title": "Smart Layouts",
+        "description": "Our engine automatically arranges your content, images, and charts into beautiful, professional layouts."
+      },
+      "instantBranding": {
+        "title": "Instant Branding",
+        "description": "Upload your logo and color palette once, and apply your brand identity to every slide with a single click."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Loved by presenters",
+    "subtitle": "Join thousands of professionals saving hours on presentation work every week.",
+    "items": {
+      "sarah": {
+        "name": "Sarah Jenkins",
+        "role": "Product Manager",
+        "quote": "AutoDeck completely changed how I prepare for quarterly reviews. What used to take me 4 hours now takes 15 minutes."
+      },
+      "michael": {
+        "name": "Michael Chen",
+        "role": "Startup Founder",
+        "quote": "The design consistency is incredible. I don't have a design bone in my body, but my slides look like they were made by an agency."
+      },
+      "elena": {
+        "name": "Elena Rodriguez",
+        "role": "Marketing Director",
+        "quote": "The best feature is the instant export. I can move from the AI draft to PowerPoint in seconds for final tweaks."
+      }
+    }
+  },
+  "cta": {
+    "title": "Experience the power of <0>AI design</0>",
+    "subtitle": "Stop wasting time on formatting. Start creating impactful presentations today.",
+    "primaryButton": "Start for Free",
+    "secondaryButton": "View Pricing",
+    "note": "Free forever plan available • Cancel anytime"
+  },
+  "navbar": {
+    "logo": "AutoDeck AI",
+    "items": {
+      "features": "features",
+      "pricing": "pricing",
+      "enterprise": "enterprise",
+      "blog": "blog"
+    },
+    "login": "Login",
+    "getStarted": "Get Started",
+    "profile": "Profile",
+    "themeToggle": {
+      "dayMode": "Switch to night mode",
+      "nightMode": "Switch to day mode"
+    }
+  },
+  "footer": {
+    "brandDescription": "Empowering professionals to tell better stories with the help of artificial intelligence.",
+    "sections": {
+      "product": "Product",
+      "company": "Company",
+      "legal": "Legal"
+    },
+    "links": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "templates": "Templates",
+      "integrations": "Integrations",
+      "about": "About",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "security": "Security"
+    },
+    "copyright": "© {{year}} AutoDeck AI Inc. All rights reserved."
+  },
+  "featuresPage": {
+    "hero": {
+      "subtitle": "Stop wrestling with slide decks. Let our AI write, design, and format your story in seconds so you can focus on the delivery.",
+      "primaryButton": "Start Creating Free",
+      "secondaryButton": "Watch Demo"
+    },
+    "sectionHeader": {
+      "title": "Everything you need to tell your story",
+      "subtitle": "From instant drafting to brand-perfect styling, SlideAI handles the heavy lifting."
+    },
+    "zigzag": {
+      "promptToDeck": {
+        "title": "From prompt to deck in seconds",
+        "description": "Simply type your topic or paste a document, and watch as our AI builds a comprehensive narrative structure, selects relevant imagery, and applies professional layouts instantly.",
+        "bullets": {
+          "0": "Generates 10+ slides at once",
+          "1": "Auto-summarizes long documents",
+          "2": "Suggests relevant imagery"
+        }
+      },
+      "smartAlignment": {
+        "title": "Never fix alignment again",
+        "description": "Our smart layout engine ensures your content always looks professional. Add an image, resize a text box, or change a chart—the slide adapts automatically to keep everything aligned to the grid.",
+        "linkText": "Learn about layouts"
+      },
+      "brandConsistency": {
+        "title": "Your brand, applied instantly",
+        "description": "Upload your fonts, colors, and logo once. SlideAI automatically enforces your brand guidelines on every slide created by your team. No more rogue fonts or off-brand colors."
+      }
+    },
+    "grid": {
+      "title": "But wait, there's more",
+      "subtitle": "Everything you need to collaborate, analyze, and share your presentations.",
+      "items": {
+        "realTimeCollaboration": {
+          "title": "Real-time Collaboration",
+          "description": "Work together with your team on the same deck. See changes instantly as they happen."
+        },
+        "analytics": {
+          "title": "Built-in Analytics",
+          "description": "Track who views your deck and which slides they spend the most time on."
+        },
+        "aiImageGeneration": {
+          "title": "AI Image Generation",
+          "description": "Don't have a photo? Generate unique, royalty-free visuals directly within the editor."
+        },
+        "universalExport": {
+          "title": "Universal Export",
+          "description": "Export to PDF, PowerPoint, or host it as a live web link. Your choice."
+        },
+        "versionHistory": {
+          "title": "Version History",
+          "description": "Made a mistake? Jump back to any previous version of your deck with one click."
+        },
+        "autoTranslation": {
+          "title": "Auto-Translation",
+          "description": "Translate your entire presentation into 30+ languages instantly while preserving formatting."
+        }
+      }
+    },
+    "testimonial": {
+      "quote": "SlideAI has completely changed how our agency pitches. We save about 10 hours per week on deck formatting alone.",
+      "author": "Sarah Jenkins",
+      "role": "Creative Director, Spark Agency"
+    },
+    "cta": {
+      "title": "Ready to create your best work?",
+      "subtitle": "Join 50,000+ presenters who have switched to the new standard of design.",
+      "primaryButton": "Get Started for Free",
+      "secondaryButton": "View Pricing"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "We're building the future of <0>presentations</0>",
+      "subtitle": "Our mission is to empower professionals worldwide to create stunning presentations effortlessly, letting AI handle the design while you focus on what matters most—your story."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To revolutionize how professionals create presentations by combining cutting-edge AI technology with intuitive design, making professional-quality slides accessible to everyone."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become the global standard for presentation creation, where every professional can tell their story beautifully without spending hours on formatting and design."
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "These principles guide everything we do and shape how we build products that matter.",
+      "items": {
+        "innovation": {
+          "title": "Innovation"
+        },
+        "excellence": {
+          "title": "Excellence"
+        },
+        "collaboration": {
+          "title": "Collaboration"
+        },
+        "integrity": {
+          "title": "Integrity"
+        }
+      }
+    },
+    "stats": {
+      "title": "By the Numbers",
+      "items": {
+        "users": {
+          "label": "Active Users"
+        },
+        "presentations": {
+          "label": "Presentations Created"
+        },
+        "countries": {
+          "label": "Countries"
+        },
+        "satisfaction": {
+          "label": "Customer Satisfaction"
+        }
+      }
+    },
+    "cta": {
+      "title": "Join us on this <0>journey</0>",
+      "subtitle": "Whether you're a user, partner, or potential team member, we'd love to hear from you.",
+      "primaryButton": "Contact Us",
+      "secondaryButton": "Learn More"
+    }
+  },
+  "pricingPage": {
+    "title": "Create stunning presentations in seconds with AI.",
+    "subtitle": "Choose the plan that fits your storytelling needs. Scale from individual projects to enterprise-wide collaboration effortlessly.",
+    "billing": {
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "save": "Save {{discount}}%"
+    },
+    "popularBadge": "Most Popular",
+    "pricePeriod": "/mo",
+    "compare": {
+      "tableHeaders": {
+        "features": "Features",
+        "starter": "Starter",
+        "pro": "Pro",
+        "enterprise": "Enterprise"
+      }
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "For individuals just getting started.",
+        "buttonText": "Get Started Free",
+        "features": {
+          "0": "5 AI presentations/mo",
+          "1": "Basic templates",
+          "2": "PDF export"
+        }
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "For professionals who need power.",
+        "buttonText": "Get Pro",
+        "features": {
+          "0": "Unlimited AI presentations",
+          "1": "Premium templates",
+          "2": "PPTX export",
+          "3": "Custom fonts",
+          "4": "Brand kit"
+        }
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "For teams and organizations.",
+        "buttonText": "Contact Sales",
+        "features": {
+          "0": "SSO Integration",
+          "1": "Team collaboration",
+          "2": "Dedicated support manager",
+          "3": "API access",
+          "4": "Custom security review"
+        }
+      }
+    },
+    "compare": {
+      "title": "Compare Plans",
+      "subtitle": "A detailed look at what's included",
+      "features": {
+        "presentations": {
+          "name": "Presentations / mo",
+          "starter": "5",
+          "pro": "Unlimited",
+          "enterprise": "Unlimited"
+        },
+        "export": {
+          "name": "Export Formats",
+          "starter": "PDF",
+          "pro": "PDF, PPTX",
+          "enterprise": "All Formats"
+        },
+        "aiModel": {
+          "name": "AI Model Access",
+          "starter": "Standard",
+          "pro": "Advanced",
+          "enterprise": "Latest (GPT-4)"
+        },
+        "analytics": {
+          "name": "Analytics"
+        },
+        "support": {
+          "name": "Support",
+          "starter": "Community",
+          "pro": "Priority Email",
+          "enterprise": "24/7 Dedicated"
+        }
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": {
+        "cancel": {
+          "question": "Can I cancel anytime?",
+          "answer": "Yes, you can cancel your subscription at any time. Your access will remain active until the end of the current billing period."
+        },
+        "student": {
+          "question": "Do you offer student discounts?",
+          "answer": "Absolutely! We offer a 50% discount for students and educators with a valid .edu email address."
+        },
+        "data": {
+          "question": "What happens to my data?",
+          "answer": "Your data is yours. We encrypt everything at rest and in transit. You can export or delete your data at any time."
+        },
+        "switch": {
+          "question": "Can I switch plans?",
+          "answer": "Yes, you can upgrade or downgrade your plan at any time. Prorated charges will apply automatically."
+        }
+      }
+    },
+    "trust": {
+      "title": "TRUSTED BY INNOVATIVE TEAMS AT"
+    }
+  },
+  "loginPage": {
+    "title": "Welcome back",
+    "subtitle": "Please enter your details to sign in",
+    "goBack": "To home",
+    "brandName": "Preso.ai",
+    "testimonial": {
+      "text": "Transform your ideas into professional presentations in seconds, not hours.",
+      "footer": "— The AI Presentation Engine"
+    },
+    "copyright": "© 2024 Preso.ai Inc. All rights reserved.",
+    "social": {
+      "google": "Google",
+      "microsoft": "Microsoft",
+      "divider": "Or continue with"
+    },
+    "form": {
+      "email": {
+        "label": "Email address",
+        "placeholder": "name@company.com",
+        "required": "Please enter your email",
+        "invalid": "Please enter a valid email"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your password",
+        "required": "Please enter your password",
+        "minLength": "Password must be at least 6 characters",
+        "showPassword": "Show password",
+        "hidePassword": "Hide password"
+      },
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot Password?",
+      "submit": "Log In"
+    },
+    "register": {
+      "prompt": "Don't have an account?",
+      "link": "Sign up for free"
+    }
+  },
+  "registerPage": {
+    "title": "Create your account",
+    "subtitle": "Start creating professional presentations in seconds.",
+    "brandName": "PresentationAI",
+    "social": {
+      "google": "Sign up with Google",
+      "divider": "Or continue with email"
+    },
+    "form": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "John Doe",
+        "required": "Please enter your name",
+        "minLength": "Name must be at least 2 characters"
+      },
+      "email": {
+        "label": "Work Email",
+        "placeholder": "john@company.com",
+        "required": "Please enter your email",
+        "invalid": "Please enter a valid email"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "••••••••",
+        "required": "Please enter your password",
+        "minLength": "Password must be at least 6 characters"
+      },
+      "confirmPassword": {
+        "label": "Confirm Password",
+        "placeholder": "••••••••",
+        "required": "Please confirm your password",
+        "mismatch": "Passwords do not match"
+      },
+      "submit": "Create Account",
+      "microcopy": "No credit card required"
+    },
+    "card": {
+      "title": "AI Magic",
+      "heading": "Turn ideas into presentations instantly",
+      "description": "Join thousands of professionals saving time with AI-powered deck creation.",
+      "socialProof": "+2k joined this week"
+    },
+    "login": {
+      "prompt": "Already have an account?",
+      "link": "Log in"
+    }
+  },
+  "api": {
+    "auth": {
+      "loginSuccess": "Login successful!",
+      "registerSuccess": "Registration successful!",
+      "logoutSuccess": "Logged out successfully",
+      "loginFailed": "Login failed. Please try again.",
+      "registerFailed": "Registration failed. Please try again.",
+      "invalidCredentials": "Invalid credentials",
+      "registrationFailed": "Registration failed",
+      "invalidRefreshToken": "Invalid refresh token",
+      "userNotFound": "User not found",
+      "emailAlreadyExists": "User with this email already exists"
+    },
+    "common": {
+      "errorOccurred": "An error occurred",
+      "unexpectedError": "An unexpected error occurred"
+    }
+  },
+  "notFoundPage": {
+    "title": "404 - Slide Missing",
+    "description": "Our AI algorithms searched the entire cloud but came up empty. This slide might have been deleted, moved, or never existed. Let's get you back to creating.",
+    "returnToDashboard": "Return to Dashboard",
+    "contactSupport": "Contact Support",
+    "commonDestinations": "Common Destinations",
+    "newDeck": "New Deck",
+    "myLibrary": "My Library",
+    "helpCenter": "Help Center"
+  },
+  "profilePage": {
+    "title": "Account Settings",
+    "subtitle": "Manage your profile details, workspace preferences, and subscription plan.",
+    "sidebar": {
+      "menuItems": {
+        "profile": "Profile Details",
+        "subscription": "Subscription & Plan",
+        "security": "Security",
+        "aiPreferences": "AI Preferences"
+      }
+    },
+    "creditsUsed": "Credits Used",
+    "creditsText": "{{current}}/{{total}} presentations generated this month.",
+    "profileInformation": "Profile Information",
+    "profileDescription": "Update your photo and personal details here.",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "saveChanges": "Save Changes",
+    "changePhoto": "Change Photo",
+    "remove": "Remove",
+    "avatarHint": "Recommended: Square JPG, PNG, or GIF, at least 1000x1000 pixels.",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter your last name",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "jobTitle": "Job Title",
+    "jobTitlePlaceholder": "Enter your job title",
+    "company": "Company",
+    "companyPlaceholder": "Enter your company name",
+    "workspacePreferences": "Workspace Preferences",
+    "themePreference": "Theme Preference",
+    "systemDefault": "System Default",
+    "language": "Language",
+    "englishUS": "English (US)",
+    "proPlanActive": "Pro Plan Active",
+    "proPlanDescription": "You have access to unlimited AI generations, premium templates, and export to PPTX.",
+    "manageSubscription": "Manage Subscription",
+    "saveSuccess": "Profile updated successfully!",
+    "saveFailed": "Failed to update profile. Please try again.",
+    "subscriptionPlan": {
+      "title": "Subscription & Plan",
+      "description": "Manage your billing details and subscription plan preferences.",
+      "billingPortal": "Billing Portal",
+      "currentPlan": "Current Plan",
+      "availablePlans": "Available Plans",
+      "paymentMethod": "Payment Method",
+      "active": "Active",
+      "month": "month",
+      "nextBilling": "Next billing date",
+      "cancelPlan": "Cancel Plan",
+      "upgradePlan": "Upgrade Plan",
+      "downgrade": "Downgrade",
+      "upgrade": "Upgrade",
+      "mostPopular": "Most Popular",
+      "addNew": "Add New",
+      "expiry": "Expiry"
+    },
+    "security": {
+      "title": "Security Settings",
+      "description": "Manage your password and security preferences.",
+      "changePassword": "Change Password",
+      "currentPassword": "Current Password",
+      "currentPasswordRequired": "Please enter your current password",
+      "newPassword": "New Password",
+      "newPasswordRequired": "Please enter a new password",
+      "confirmPassword": "Confirm New Password",
+      "confirmPasswordRequired": "Please confirm your new password",
+      "passwordsDoNotMatch": "Passwords do not match",
+      "passwordMinLength": "Password must be at least 8 characters long",
+      "passwordRequirement": "Password must be at least 8 characters long",
+      "twoFactorAuth": "Two-Factor Authentication",
+      "twoFactorDescription": "Add an extra layer of security to your account.",
+      "recommendation": "Recommendation",
+      "recommendationText": "We recommend using an authenticator app like Google Authenticator or Authy for better security.",
+      "recentActivity": "Recent Login Activity",
+      "activeNow": "Active now",
+      "revoke": "Revoke",
+      "logoutAll": "Log out of all devices"
+    },
+    "aiPreferences": {
+      "title": "AI Settings",
+      "description": "Configure artificial intelligence behavior for your presentations.",
+      "saveSettings": "Save Settings",
+      "styleAndTone": "Style and Tone",
+      "preferredTone": "Preferred Tone",
+      "toneHint": "The tone used by default when generating slide text.",
+      "creativityLevel": "Creativity Level",
+      "precise": "Precise",
+      "balanced": "Balanced",
+      "creative": "Creative",
+      "tones": {
+        "professional": "Professional",
+        "friendly": "Friendly",
+        "persuasive": "Persuasive",
+        "academic": "Academic",
+        "creative": "Creative"
+      },
+      "contentAndDepth": "Content and Depth",
+      "depth": {
+        "brief": {
+          "title": "Brief",
+          "description": "Key points and lists."
+        },
+        "standard": {
+          "title": "Standard",
+          "description": "Balance of text and visuals."
+        },
+        "detailed": {
+          "title": "Detailed",
+          "description": "Detailed explanations."
+        }
+      },
+      "languageAndFormatting": "Language and Formatting",
+      "defaultGenerationLanguage": "Default Generation Language",
+      "defaultLanguageHint": "The language in which AI creates slides if not specified otherwise.",
+      "autoImageSelection": "Automatic Image Selection",
+      "autoImageHint": "AI will automatically suggest stock photos for slides.",
+      "experimentalFeatures": "Experimental Features",
+      "experimentalDescription": "Enable access to beta features such as chart generation from raw data and speaker voice notes.",
+      "manageBetaFeatures": "Manage Beta Features"
+    }
+  }
+}
+

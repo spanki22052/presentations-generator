@@ -1,0 +1,19 @@
+import { MigrationInterface, QueryRunner, TableColumn } from 'typeorm';
+
+export class AddSurnameToUsers1767219151079 implements MigrationInterface {
+  public async up(queryRunner: QueryRunner): Promise<void> {
+    await queryRunner.addColumn(
+      'users',
+      new TableColumn({
+        name: 'surname',
+        type: 'varchar',
+        length: '100',
+        isNullable: true,
+      })
+    );
+  }
+
+  public async down(queryRunner: QueryRunner): Promise<void> {
+    await queryRunner.dropColumn('users', 'surname');
+  }
+}

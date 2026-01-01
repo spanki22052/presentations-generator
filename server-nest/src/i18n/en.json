@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "invalidCredentials": "Invalid credentials",
+    "registrationFailed": "Registration failed",
+    "invalidRefreshToken": "Invalid refresh token",
+    "userNotFound": "User not found",
+    "logoutSuccess": "Logged out successfully"
+  },
+  "users": {
+    "emailAlreadyExists": "User with this email already exists",
+    "userNotFound": "User not found"
+  },
+  "common": {
+    "internalServerError": "Internal server error"
+  }
+}
+

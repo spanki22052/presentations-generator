@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "invalidCredentials": "Неверные учетные данные",
+    "registrationFailed": "Ошибка регистрации",
+    "invalidRefreshToken": "Недействительный токен обновления",
+    "userNotFound": "Пользователь не найден",
+    "logoutSuccess": "Выход выполнен успешно"
+  },
+  "users": {
+    "emailAlreadyExists": "Пользователь с таким email уже существует",
+    "userNotFound": "Пользователь не найден"
+  },
+  "common": {
+    "internalServerError": "Внутренняя ошибка сервера"
+  }
+}
+
